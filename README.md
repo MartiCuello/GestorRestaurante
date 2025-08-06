@@ -41,6 +41,18 @@ Esta solución emula el uso de múltiples dispositivos en un restaurante, permit
   - Manejo estructurado de excepciones  
 
 ---
+## 🖼️ Capturas de pantalla
+
+### Interfaz de Login de gestor y dispositivos para clientes
+![Login](assets/login.png)
+
+### Interfaz de gestor
+![Gestor - Procesar Pedido](assets/gestor.png)
+
+### Interfaz de cliente
+![Cliente - Crear Pedido](assets/cliente.png)
+
+---
 
 ## 📄 Diagramas y documentación
 
